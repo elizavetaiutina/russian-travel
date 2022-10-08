@@ -1,22 +1,22 @@
-.intro{
+.intro {
   padding: 64px 16px 0;
 }
 
-@media (min-width:768px){
-  .intro{
+@media (min-width: 768px) {
+  .intro {
     padding: 88px 24px 0;
   }
 }
 
-@media (min-width:1024px){
-  .intro{
+@media (min-width: 1024px) {
+  .intro {
     padding: 92px 0 0 48px;
     max-width: 690px;
   }
 }
 
-@media (min-width:1280px){
-  .intro{
+@media (min-width: 1280px) {
+  .intro {
     padding: 92px 0 0 148px;
   }
 }

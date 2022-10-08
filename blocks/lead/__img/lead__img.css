@@ -1,4 +1,4 @@
-.lead__img{
+.lead__img {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -6,14 +6,14 @@
   object-fit: cover;
 }
 
-@media (min-width:1024px){
-  .lead__img{
+@media (min-width: 1024px) {
+  .lead__img {
     padding: 0 48px;
   }
 }
 
-@media (min-width:1280px){
-  .lead__img{
+@media (min-width: 1280px) {
+  .lead__img {
     padding: 0 148px;
   }
 }

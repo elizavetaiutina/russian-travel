@@ -1,10 +1,10 @@
-.menu{
+.menu {
   margin: 0 0 48px;
   padding: 0;
 }
 
-@media (min-width:768px){
-  .menu{
+@media (min-width: 768px) {
+  .menu {
     margin: 0;
   }
 }
