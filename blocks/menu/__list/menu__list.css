@@ -1,0 +1,17 @@
+.menu__list{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+}
+
+@media (min-width:768px){
+  .menu__list{
+    flex-direction: row;
+    gap: 18px;
+    justify-content: space-between;
+  }
+}

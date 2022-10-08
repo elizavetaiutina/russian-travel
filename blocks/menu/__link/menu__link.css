@@ -1,0 +1,22 @@
+.menu__link{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  color: #FFFFFF;
+  transition: opacity .2s ease-in-out;
+}
+
+.menu__link:hover{
+  opacity: 0.8;
+}
+
+@media (min-width:768px){
+  .menu__link{
+    font-size: 16px;
+    line-height: 18px;
+  }
+}
+

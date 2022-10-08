@@ -1,0 +1,21 @@
+.place__description{
+  margin: 0 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  padding: 0;  
+}
+
+@media (min-width:768px){
+  .place__description{
+    margin: 0;
+    gap: 26px;
+  }
+}
+
+@media (min-width:1024px){
+  .place__description{
+    gap: 26px;       
+  }
+}
+
