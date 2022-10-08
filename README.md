@@ -18,4 +18,3 @@
 ## GitHub Pages:
 
 ### https://elizavetaiutina.github.io/russian-travel/
-
