@@ -1,7 +1,7 @@
 .gallery__list {
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(284px, auto));
+  grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
   gap: 12px;
   margin: 0;
   padding: 0;
